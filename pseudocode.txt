@@ -1,0 +1,6 @@
+1. Create page to hold site output
+2. Include css for pages and data
+3. Allow user to input info for book search
+4. Use book api data to return titles
+5. Output displays book info
+
