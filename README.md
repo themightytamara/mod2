@@ -1,3 +1,6 @@
+Mod2: The purpose of the project as a problem statement: Book lovers and readers often have trouble finding their favorite books online. This project allows them to easily search for titles.
+The target end user for this program: Book lovers, readers
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
